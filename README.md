@@ -30,7 +30,7 @@ Aleksandr G. Avramenko, Aaron S. Rury, [Quantum Control of Ultrafast Internal Co
 Aleksandr G. Avramenko, Aaron S. Rury, [Interrogating the Structure of Molecular Cavity Polaritons with Resonance Raman Scattering: An Experimentally Motivated Theoretical Description](https://doi.org/10.1021/acs.jpcc.9b08716), The Journal of Physical Chemistry C, 2019, 123, 50, 30551-30561.
 
 Adedayo M. Sanni, Sydney N. Lavan, Aleksandr Avramenko, Federico A. Rabuffetti, Leopoldo Suescun, and Aaron S. Rury, [Room-Temperature Broadband Light Emission from Hybrid Lead Iodide Perovskite-Like Quantum Wells: Terahertz Spectroscopic Investigation of Metastable Defects](https://doi.org/10.1021/acs.jpclett.9b00743), The Journal of Physical Chemistry Letters, 2018, 10, 8, 1653-1662.
-***
+
 #### Working papers
 Aleksandr Avramenko, [Modifying the glass transition temperature of organic molecules by strong light-matter coupling](http://dx.doi.org/10.2139/ssrn.5570299), Social Science Research Network, 2025.
 
@@ -45,7 +45,7 @@ Aleksandr Avramenko, [Dielectric properties of strongly coupled hybridized light
 Aleksandr Avramenko, [Light-matter interactions under inverted Schwarzschild space-time conditions](https://doi.org/10.31219/osf.io/m3uqe), Open Science Framework, 2024.
 
 Aleksandr Avramenko, [The kinetic energy of light-duty trucks](http://dx.doi.org/10.2139/ssrn.4946897), Social Science Research Network, 2024.
-***
+
 #### Presentations
 2023: Conference on Lasers and Electro-Optics, San Jose, CA. Oral presentation: [“Emission Spectra of Octaethylporphyrin Dissolved in Liquid Toluene and a Tripropylene Glycol Diacrylate Polymer Matrix.”](https://doi.org/10.1364/CLEO_AT.2023.ATh3I.5)
 
@@ -84,6 +84,6 @@ Aleksandr Avramenko, [The kinetic energy of light-duty trucks](http://dx.doi.org
 2017: Detroit Society for Coatings Technology FOCUS conference, Troy, MI. Poster presented: “Effects of temperature, irradiance, and molecular weight on properties of radiation cured coatings.” 
 
 2017: Graduate Research Conference, Eastern Michigan University, Ypsilanti, MI. Poster presented: “Effects of temperature, irradiance, and molecular weight on properties of radiation cured coatings.” 
-***
+
 #### Books
 Aleksandr Avramenko, Phase adventures of H20, [ISBN:9781257095391](https://www.lulu.com/shop/aleksandr-avramenko-and-aleksandr-avramenko/phase-adventures-of-h2o/hardcover/product-jej58gk.html?q=avramenko&page=1&pageSize=4)
