@@ -44,7 +44,7 @@ Aleksandr Avramenko, [Dielectric properties of strongly coupled hybridized light
 
 Aleksandr Avramenko, [Light-matter interactions under inverted Schwarzschild space-time conditions](https://doi.org/10.31219/osf.io/m3uqe), Open Science Framework, 2024.
 
-Aleksandr Avramenko, [The kinetic energy of light-duty trucks](Avramenko, Aleksandr, The kinetic energy of light-duty trucks (http://dx.doi.org/10.2139/ssrn.4946897), Social Science Research Network, 2024.
+Aleksandr Avramenko, [The kinetic energy of light-duty trucks](http://dx.doi.org/10.2139/ssrn.4946897), Social Science Research Network, 2024.
 ***
 #### Presentations
 2023: Conference on Lasers and Electro-Optics, San Jose, CA. Oral presentation: [“Emission Spectra of Octaethylporphyrin Dissolved in Liquid Toluene and a Tripropylene Glycol Diacrylate Polymer Matrix.”](https://doi.org/10.1364/CLEO_AT.2023.ATh3I.5)
