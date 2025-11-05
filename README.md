@@ -1,7 +1,8 @@
 # Aleksandr G. Avramenko, Ph.D.
-## Wayne State University-Detroit, MI (2022)
+## Wayne State University-Detroit, MI [(2022)](https://digitalcommons.wayne.edu/oa_dissertations/3657/)
+
 ***
-#### I am a physical chemist who studied the photophysics of porphyrins under strong light-matter coupling conditions at Wayne State University in the Material Science and Dynamics Group under Professor Aaron Rury. I relied on optical techniques such as ultrafast spectrosocpy and Raman spectroscopy to probe the dynamics of theses strong light-matter states, known as polaritons. I also used various nanofabrication techniques made available at the UM Lurie Nanofabrication Fascility, such as CVD and PVD as well as ellipsometry, to ensure proper manufacture of optical devices such as DBR mirrors and Fabry-Perot interferometers necessary to sustain strong light-matter coupling. I completed postdoctoral training at the USDA's Agricultrual Research Service in Clay Center, NE under Dr. Mindy Spiehs where I researched methods to reduce antibiotic contaminants in agricultural wastewater, in particular how visible light can be used to reduce the concentration of tylosin in holding ponds near cattle feedlots. 
+#### I am a physical chemist who studied the photophysics of porphyrins under strong light-matter coupling conditions at Wayne State University in the Material Science and Dynamics Group under Professor Aaron Rury. I relied on optical techniques such as ultrafast spectrosocpy and Raman spectroscopy to probe the dynamics of theses strong light-matter states, known as polaritons. I also used various nanofabrication techniques made available at the UM Lurie Nanofabrication Fascility, such as CVD and PVD as well as ellipsometry, to ensure proper manufacture of optical devices such as DBR mirrors and Fabry-Perot interferometers necessary to sustain strong light-matter coupling. I completed postdoctoral training at the USDA's Agricultrual Research Service in Clay Center, NE under Dr. Mindy Spiehs where I researched methods to reduce antibiotic contaminants in agricultural wastewater, in particular how visible light can be used to reduce the concentration of tylosin, a common veterinary antibiotic which has a similar structure to erythromycin. 
 ***
 #### Notable publications
 Aleksandr G. Avramenko, [Gravitational Waves In a Quantum Electrodynamic Perspective](https://doi.org/10.37190/oa240304), Optica Applicata, 2024, 54, 3, 327-336. 
@@ -86,4 +87,9 @@ Aleksandr Avramenko, [The kinetic energy of light-duty trucks](http://dx.doi.org
 2017: Graduate Research Conference, Eastern Michigan University, Ypsilanti, MI. Poster presented: “Effects of temperature, irradiance, and molecular weight on properties of radiation cured coatings.” 
 
 #### Books
-Aleksandr Avramenko, Phase adventures of H20, [ISBN:9781257095391](https://www.lulu.com/shop/aleksandr-avramenko-and-aleksandr-avramenko/phase-adventures-of-h2o/hardcover/product-jej58gk.html?q=avramenko&page=1&pageSize=4)
+Aleksandr Avramenko, Phase adventures of H20, [ISBN:9781257095391](https://www.lulu.com/shop/aleksandr-avramenko-and-aleksandr-avramenko/phase-adventures-of-h2o/hardcover/product-jej58gk.html?q=avramenko&page=1&pageSize=4).
+
+##### ORCID: 0000-0001-5951-0150.
+
+
+
